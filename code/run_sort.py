@@ -1,11 +1,11 @@
-import os
+            import os
 
 import torch
 import torch.nn as nn
 import torch.optim as optim
 from torch.optim import lr_scheduler
 
-import shutil
+import shutil as shutil
 
 import torchvision
 from torchvision import models, transforms, datasets
