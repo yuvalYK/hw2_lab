@@ -5,7 +5,7 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.optim import lr_scheduler
 
-import shutil as shutil
+import shutil
 
 import torchvision
 from torchvision import models, transforms, datasets
